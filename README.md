@@ -4,3 +4,9 @@
 ###### Once the processing part is done, now comes the implementation of the visualization.
 ###### The visualization dashboard will look like this: 
 ![image](https://user-images.githubusercontent.com/38382273/149219924-76d7f8c2-4ab2-4502-808a-3bede3d34b3e.png)
+###### Figure 1: shows the visualization dashboard.
+###### The 3 containers in the top are used to make it more user friendly, and make it easier to spot the changes. 
+          1.	The first container is to show the highest artists number belong to the chosen genre per continent
+          2.	The second container is to show the total artists number belong to the chosen genre
+          3.	The third container is to show the lowest artists number belong to the Blues genre per continent
+
