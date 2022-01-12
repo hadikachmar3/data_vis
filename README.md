@@ -28,5 +28,6 @@
 ![image](https://user-images.githubusercontent.com/38382273/149221123-79752ab8-c385-4ff4-81e7-1da536fc429a.png)
 ###### Figure 6-7: shows the tooltips.
 
+## The end
 ![image](https://hips.hearstapps.com/esq.h-cdn.co/assets/15/49/1448922276-2ea35a766c27256bb3a099f9d93da19d.gif?resize=320:*)
 
