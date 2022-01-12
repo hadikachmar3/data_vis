@@ -1,6 +1,6 @@
-### The App is live and available for testing through this [Link](https://hadikachmar3.shinyapps.io/Data_visualization_wassabi/) Preview this visualization. 
+### The App is live and available for testing through this [Link](https://hadikachmar3.shinyapps.io/Data_visualization_wassabi/). 
 
-#### The [final dashboard](https://github.com/hadikachmar3/data_vis/blob/main/final_dashboard.R) is the code to show the visualization using the [artist_df_final.csv file](https://github.com/hadikachmar3/data_vis/blob/main/2-artist_df_final.csv) Preview this visualization. 
+#### The [final dashboard](https://github.com/hadikachmar3/data_vis/blob/main/final_dashboard.R) is the code to show the visualization using the [artist_df_final.csv file](https://github.com/hadikachmar3/data_vis/blob/main/2-artist_df_final.csv). 
 
 <hr>
 
