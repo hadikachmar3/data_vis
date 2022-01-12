@@ -10,5 +10,20 @@
           2.	The second container is to show the total artists number belong to the chosen genre
           3.	The third container is to show the lowest artists number belong to the Blues genre per continent
           
-![image](https://user-images.githubusercontent.com/38382273/149220183-a74f3d48-eeb0-4220-8ee6-34909929d9dd.png)
+![image](https://user-images.githubusercontent.com/38382273/149220766-f967d554-b1cd-4406-8191-f033dad405d4.png)
+###### Figure 2-3-4: shows the bubble map visualization.
+
+###### Talking about the main visualization, the user will be able to choose a specific sub-genre, and the changes will be shown on the bubble map, and in the 3 containers mentioned above, means that the Bubble map visualization is synchronized with the containers. Moreover, the colors palette shown down below in the bubble map, it’s toggleable, the user is able to switch on and off, and the changes will be shown on the map. In other words, if the user press on the black color palette, the bubble will be removed from the map, and pressing it again will show it back.
+###### For the funnel chart visualization,
+
+![image](https://user-images.githubusercontent.com/38382273/149220870-1d2f9859-ff10-4252-9642-0db53e4b534c.png)
+###### Figure 5: shows the funnel chart visualization.
+###### The user will be able to choose any continent from the continent dropdown button, and the changes will appear on the funnel chart.
+###### Rather not forget to mention about the tooltip as it is a crucial part in the visualization.
+###### Once the user hover on the funnel chart parts, he will be able to see some statistical information, As shown in the figures below.
+
+![image](https://user-images.githubusercontent.com/38382273/149220995-38a7692b-77f2-42f1-be5d-a5aadeef4576.png)
+
+
+
 
