@@ -22,8 +22,8 @@
 ###### Rather not forget to mention about the tooltip as it is a crucial part in the visualization.
 ###### Once the user hover on the funnel chart parts, he will be able to see some statistical information, As shown in the figures below.
 
-![image](https://user-images.githubusercontent.com/38382273/149220995-38a7692b-77f2-42f1-be5d-a5aadeef4576.png)
-
+![image](https://user-images.githubusercontent.com/38382273/149221123-79752ab8-c385-4ff4-81e7-1da536fc429a.png)
+###### Figure 6-7: shows the tooltips.
 
 
 
