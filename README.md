@@ -9,4 +9,6 @@
           1.	The first container is to show the highest artists number belong to the chosen genre per continent
           2.	The second container is to show the total artists number belong to the chosen genre
           3.	The third container is to show the lowest artists number belong to the Blues genre per continent
+          
+![image](https://user-images.githubusercontent.com/38382273/149220183-a74f3d48-eeb0-4220-8ee6-34909929d9dd.png)
 
