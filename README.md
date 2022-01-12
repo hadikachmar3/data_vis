@@ -1,5 +1,8 @@
 ### The App is live and available for testing through this [Link](https://hadikachmar3.shinyapps.io/Data_visualization_wassabi/) Preview this visualization. 
 
+#### The [final dashboard](https://github.com/hadikachmar3/data_vis/blob/main/final_dashboard.R) is the code to show the visualization using the [artist_df_final.csv file](https://github.com/hadikachmar3/data_vis/blob/main/2-artist_df_final.csv) Preview this visualization. 
+
+<hr>
 
 ###### The Project is based on the Wassabi dataset. There will be 2 types of visualization, The first one is a bubble map that will show the distribution of the artists according to their genre, while the second one is a funnel chart that will show the number of artists belong to a specific genre in order for a chosen country.
 ###### In order to implement the visualization, we need to go through few steps to deal with the data then implement the visualization. The data processing part is purely done using Rstudio.
